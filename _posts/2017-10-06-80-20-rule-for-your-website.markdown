@@ -11,9 +11,7 @@ website: 'https://digitaldesigneronline.com'
 
 If you are looking to increase your website’s overall results while putting in less work into your online presence, then the 80/20 rule is the way to go. Correctly utilizing this general rule of thumb regarding your website will assist in you receiving:
 
-Higher Conversion Rates
-Increased Number of Subscribers & Members
-and Best of All More Sales
+Higher Conversion Rates, Increased Number of Subscribers & Members and Best of All More Sales
 
 But what is this rule that can effectively assist you in taking your website to the top of the search engines, in the eyes of your target market, and bring the resulting revenue in? The 80/20 Rule, or better known as the Pareto Principle simply states 80% of our results come from 20% of our efforts. When applying this consideration to your website we can see that 80% of our desired results come from only 20% of the elements within your website. The remaining 80% of your website in this consideration only provides you with 20% of your desired results. Funny how the majority seems to be the lesser effective of the two in this case but sometimes the truth is bewildering.
 
@@ -28,8 +26,11 @@ Our first step like all effective strategies is the planning stage. We need to d
 Here are a few examples:
 
 Looking to increase your client base regarding your currently offered services?
+
 Are you looking to intice a form of interaction, ie: form entry, donations, or other forms of interaction?
+
 Are you looking to increase your mailing list, or newsletters followers?
+
 Are you trying to increase online procudt sales?
 
 Once we have determined your desired results for your website we can begin the get right down to business and begin using the 80/20 Rule to increase your overall online presence.
@@ -41,8 +42,11 @@ O.K. so we have established what your desired results are for your website, now 
 Here are a few examples:
 
 website text and blog posts
+
 Newsletter/Mail List Sign Up
+
 Website Membership Sign Up
+
 Social Media Marketing
 
 Remember that these items are the elements that actually contribute towards your desired results. You want to consider to not treat every element of your website equally regarding the priority that it falls into regarding your desired results. Being said, that can sometimes be a challenge in itself. It is hard to look at our own website and be objective to it, in the end everything on your site is important, right? This iw where we need to remember again, that not every element on our website is the same nor is it equal.
@@ -55,8 +59,11 @@ So, we have identified the essential website elements which utilize 20% of our w
 Here are a few examples:
 
 Unnecessary extra pages & menu items
+
 Low Traffic Social Network Sharing Buttons
+
 Unnecessary Sidebar Items
+
 Duplicated Information.
 
 As in the second step you will need to be honest with yuorself, your expectations, and your desires at this point when objectively viewing your website and adjusting the remaining 80% of non-essential elements. Remember the more you remove from this 80%, the easier it will be to update and maintain the other 20%, as well as increase your desired targeted results.
@@ -70,5 +77,7 @@ If you are looking to spruce up your Online Presence and would like to make the 
 Here are the three simple steps one more time.
 
 Step 1 – What are your goals and desired results for your online presence?
+
 Step 2 – Which is the 20% and which is the 80% of your results?
+
 Step 3 – Time To Trim The Fat From Your Current Website’s Online Presence.
