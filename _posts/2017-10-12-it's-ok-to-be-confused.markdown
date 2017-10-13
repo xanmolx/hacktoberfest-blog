@@ -1,6 +1,6 @@
 ---
 layout: 'post'
-title: 'It's OK to be confused'
+title: "It's OK to be confused"
 date: 2017-10-12
 author: 'Parker Duckworth'
 excerpt: 'Not understanding is a good thing!'
