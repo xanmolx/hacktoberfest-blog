@@ -17,8 +17,8 @@ title: Hacktober Fest Blog Project
 email: cecycorrea@gmail.com.
 description: >- # this means to ignore newlines until "baseurl:"
   The Hacktober Fest Blog Project is a collection of blog posts from different contributors to Hacktober Fest 2017.
-baseurl: "" # LEAVE AS IS the subpath of your site, e.g. /blog
-url: "" # LEAVE AS IS FOR NOW the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "hacktoberfest-blog" # LEAVE AS IS the subpath of your site, e.g. /blog
+url: "cecyc.github.io" # LEAVE AS IS FOR NOW the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
